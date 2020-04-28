@@ -18,7 +18,8 @@ header p, a {
     color: aquamarine;
 }
 
-.travel-guide h2 {
+.travel-guide h2,
+footer h2 {
     font-size: 42px;
     font-weight: 300;
 }
@@ -26,4 +27,10 @@ header p, a {
 .travel-guide p {
     font-size: 21px;
     color: gray;
+}
+
+.copyright {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
 }
