@@ -29,6 +29,10 @@ footer h2 {
     color: gray;
 }
 
+.travel-guide img {
+    width: 100%;
+}
+
 .copyright {
     text-align: right;
     color: gray;
